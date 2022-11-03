@@ -10,7 +10,7 @@ void draw() {
   
 // 2. Draw an ellipse
 // Run the program to make sure it works before moving on.
-ellipse(200,200,400,500);
+ellipse(200,200,400,700);
 
 
 // 3. Change the color of the ellipse when the mouse is pressed.
